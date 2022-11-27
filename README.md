@@ -10,7 +10,7 @@
   ### * [Questions](#Questions)
 
   ## Description:
-  ### This app shows demonstates using an ORM (sequelize) to structure and manipulate data in a mysql database.
+  ### This app demonstates using an ORM (sequelize) to structure and manipulate data in a mysql database.
   
   ## How to Use:
   ### https://drive.google.com/file/d/1seceOhNt1e0kNWMQogqeRPcYh5jUHaCA/view
